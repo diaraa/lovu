@@ -7,20 +7,20 @@ import "./App.css";
 
 class App extends Component {
   static defaultProps = {
-    ucapan: [
-      "Whatever happens, keep breathing",
-    "Pam pam pararam ceklek jedar\nPararam ram parararam ram",
-    "Hey! I wuv chuuuu! UwU",
-    "I love you.",
-    "I may not with you everyday, but I love you everyday.",
-    "I love you.",
-    "I'm sorry for loving you.",
+    ucapan: [ Hai, Assalamualaikum
+      "Apa kabar? Sehat dong ya xixi",
+    "Aku sayang kamu",
+    "Hey! I wuv yuuuu! UwU",
+    "I love you more than you know.",
+    "despite the distance separating, but I love you every single day.",
+    "I need you.",
+    "I'm sorry for My mistake.",
     ],
     panggilan: [
-      'Beb',
-      'Beib',
-      'Sayang',
-      'Jijaku'
+      'sayangku',
+      'cintaku',
+      'mas',
+      'my daddy'
     ]
   }
   
