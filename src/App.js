@@ -7,7 +7,7 @@ import "./App.css";
 
 class App extends Component {
   static defaultProps = {
-    ucapan: [ Hai, Assalamualaikum
+    ucapan: [ "Hai, Assalamualaikum",
       "Apa kabar? Sehat dong ya xixi",
     "Aku sayang kamu",
     "Hey! I wuv yuuuu! UwU",
