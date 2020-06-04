@@ -9,12 +9,12 @@ class App extends Component {
   static defaultProps = {
     ucapan: [ "Hai, Assalamualaikum",
       "Apa kabar? Sehat dong ya xixi",
-    "Aku sayang kamu",
-    "Hey! I wuv yuuuu! UwU",
-    "I love you more than you know.",
-    "despite the distance separating, but I love you every single day.",
-    "I need you.",
-    "I'm sorry for My mistake.",
+    "Kamu tau ngga, aku sayang kamu loh",
+    "I wuv yuuuu! UwU",
+    "Aku selalu berdoa semoga kita cepet ketemu.",
+    "Meskipun kita terhalang, but I love you every single day.",
+    "I miss you and I need you.",
+    "I'm sorry for My mistakes.",
     ],
     panggilan: [
       'sayangku',
