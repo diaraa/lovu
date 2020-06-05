@@ -8,13 +8,13 @@ import "./App.css";
 class App extends Component {
   static defaultProps = {
     ucapan: [ "Hai, Assalamualaikum",
-      "Apa kabar? Sehat dong ya xixi",
-    "Kamu tau ngga, aku sayang kamu loh",
-    "I wuv yuuuu! UwU",
-    "Aku selalu berdoa semoga kita cepet ketemu.",
-    "Meskipun kita terhalang, but I love you every single day.",
-    "I miss you and I need you.",
-    "I'm sorry for My mistakes.",
+      "Pasti baca ini baru bangun kan?",
+    "Dasar gantengku ini kebooooo banget",
+    "Eh mas, kamu tau ngga? Pasti gatau ya",
+    "Yahahaaha gitu aja gatau, cari tau dong.",
+    "Tapi keknya kamu tau deh.",
+    "Apa coba? Apa hayooooooo wkwkwk.",
+    "Aku sayang kamuuu, semangat jalani hari ini ya..",
     ],
     panggilan: [
       'sayangku',
